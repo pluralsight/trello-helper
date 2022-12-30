@@ -85,7 +85,7 @@
     "winston": "x"
   },
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "chai": "x",
     "sinon": "^7.3.1",
     "eslint": "^5.16.0",
